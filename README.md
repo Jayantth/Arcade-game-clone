@@ -12,7 +12,7 @@ In this game the goal is simple, get the hero character to move across the gray 
 Users move the hero character by using the main up/right/left/down arrow keys on their keyboard.
 
 ## Links to GitHub Repository (Master Branch)
-* GitHub Project Repository: [https://github.com/Jayantth/Project-list.git]
+* GitHub Project Repository: https://github.com/Jayantth/frontend-nanodegree-arcade-game.git
 ## Installation
 To run the application:
 
